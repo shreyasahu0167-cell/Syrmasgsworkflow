@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Syrma SGS MES Control Tower",
+  "description": "A modern futuristic industrial MES control tower dashboard for Syrma SGS to track and simulate real-time electronics manufacturing workflows, staging progress, manpower utilization, bottlenecks, and scanner entries/exits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
